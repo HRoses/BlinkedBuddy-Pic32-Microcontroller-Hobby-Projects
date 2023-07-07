@@ -12,5 +12,6 @@ This current project will blink Led lights (Green and Blue) using the 3 buttons 
 
 #### set up
 
+![IMG_8988](https://github.com/HRoses/Pic32-Microcontroller-Hobby-Projects/assets/105571947/78894140-6cf2-4986-9450-f968c39d2d14)
 ![IMG_8987](https://github.com/HRoses/Pic32-Microcontroller-Hobby-Projects/assets/105571947/6cfafa7b-c205-4775-8218-d53395285211)
-![IMG_8987](https://github.com/HRoses/Pic32-Microcontroller-Hobby-Projects/assets/105571947/26750e8d-d7d5-490f-91e1-d1695772460d)
+
