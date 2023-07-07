@@ -7,6 +7,9 @@ This current project will blink Led lights (Green and Blue) using the 3 buttons 
 
 ### My Goal is to make a youtube series out of these mini projects that I will do and learn about. 
 
+## Links 
+[PIC32MX250F128B MIPS Architecture](https://www.microchip.com/en-us/product/pic32mx250f128b#document-table)  
+
 #### set up
 
 ![IMG_8987](https://github.com/HRoses/Pic32-Microcontroller-Hobby-Projects/assets/105571947/6cfafa7b-c205-4775-8218-d53395285211)
