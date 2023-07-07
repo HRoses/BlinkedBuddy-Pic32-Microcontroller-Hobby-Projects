@@ -7,3 +7,7 @@ This current project will blink Led lights (Green and Blue) using the 3 buttons 
 
 ### My Goal is to make a youtube series out of these mini projects that I will do and learn about. 
 
+#### set up
+
+![IMG_8987](https://github.com/HRoses/Pic32-Microcontroller-Hobby-Projects/assets/105571947/6cfafa7b-c205-4775-8218-d53395285211)
+![IMG_8987](https://github.com/HRoses/Pic32-Microcontroller-Hobby-Projects/assets/105571947/26750e8d-d7d5-490f-91e1-d1695772460d)
